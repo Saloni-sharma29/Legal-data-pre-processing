@@ -1,6 +1,5 @@
-The above preporcessing is done with taking care of the things discussed below.
 **Preprocessing and Cleaning Steps for Legal Documents**
-
+The above preprocessing is done by taking care of the things discussed below.
 1. **Download and Extract Metadata**:
    - **Download PDFs**: Access and download the judgment reports from the Indian Kanoon website (or any other publicly available websites).
    - **Extract Metadata**: Extract and save metadata such as details about judges, appellants, respondents, case document types (e.g., civil, criminal), appeal numbers, and reportability status into a separate sheet (with the help of regular expression matching the pattern).
